@@ -1,0 +1,148 @@
+/* =============================
+      GLOBAL STYLE – LUCUTECH
+   ============================= */
+body {
+    font-family: "Poppins", Arial, sans-serif;
+    background: linear-gradient(135deg, #aee6ff, #fff4ff);
+    margin: 0;
+    padding: 0;
+}
+
+/* =============================
+      CONTAINER UTAMA
+   ============================= */
+.container {
+    width: 90%;
+    max-width: 520px;
+    margin: 40px auto;
+    background: white;
+    padding: 28px;
+    border-radius: 18px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    border: 3px solid #d8e8ff;
+}
+
+/* =============================
+      JUDUL
+   ============================= */
+h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+
+h1::after {
+    content: "✨";
+}
+
+h2, h3 {
+    text-align: center;
+    margin-top: 0;
+}
+
+/* =============================
+      CARD
+   ============================= */
+.card {
+    background: #edf4ff;
+    padding: 18px;
+    margin-top: 18px;
+    border-radius: 12px;
+    border-left: 5px solid #72a7ff;
+}
+
+.card.result {
+    background: #ffeefd;
+    border-left-color: #ff7de0;
+}
+
+.history-item {
+    background: #f1f7ff;
+    padding: 15px;
+    margin-bottom: 14px;
+    border-radius: 10px;
+    border-left: 4px solid #7fb0ff;
+}
+
+/* =============================
+      INPUT & SELECT
+   ============================= */
+input, select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 15px;
+    border-radius: 10px;
+    border: 2px solid #aac6ff;
+    background: #f6faff;
+}
+
+input:focus, select:focus {
+    border-color: #5a8fff;
+    outline: none;
+}
+
+/* =============================
+      BUTTON
+   ============================= */
+.btn {
+    display: inline-block;
+    background: #5188ff;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 600;
+    transition: 0.2s;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.btn:hover {
+    background: #3f6fe0;
+    transform: scale(1.04);
+}
+
+.btn.alt {
+    background: #8599b5;
+}
+
+.btn.alt:hover {
+    background: #6c7a93;
+}
+
+/* =============================
+      BUTTON WRAPPER
+   ============================= */
+.buttons {
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* =============================
+      TAMBAHAN LUCUTECH
+   ============================= */
+p strong {
+    color: #3460c9;
+}
+
+.card p {
+    margin: 6px 0;
+}
+
+form label {
+    font-weight: 600;
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Animasi lucu */
+.card, .history-item, .btn {
+    animation: pop 0.25s ease-out;
+}
+
+@keyframes pop {
+    from { transform: scale(0.95); opacity: 0; }
+    to   { transform: scale(1); opacity: 1; }
+}

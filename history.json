@@ -1,0 +1,327 @@
+[
+    {
+        "time": "2025-11-28 18:33:10",
+        "training": "Attack",
+        "intensity": 2,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 5,
+            "hp": 44
+        }
+    },
+    {
+        "time": "2025-11-28 18:40:14",
+        "training": "Speed",
+        "intensity": 20,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 15,
+            "hp": 80
+        }
+    },
+    {
+        "time": "2025-11-28 18:44:25",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:08:25",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:12:02",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:29:39",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:29:42",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:29:48",
+        "training": "Attack",
+        "intensity": 10,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 8,
+            "hp": 60
+        }
+    },
+    {
+        "time": "2025-11-28 19:33:07",
+        "training": "Attack",
+        "intensity": 2,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 5,
+            "hp": 44
+        }
+    },
+    {
+        "time": "2025-11-28 19:49:15",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:54:26",
+        "training": "Defense",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 19:58:28",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 20:10:04",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 20:10:05",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 20:13:35",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 20:13:37",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 20:16:50",
+        "training": "Attack",
+        "intensity": 5,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 6,
+            "hp": 50
+        }
+    },
+    {
+        "time": "2025-11-28 20:21:06",
+        "training": "Attack",
+        "intensity": 20,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 11,
+            "hp": 80
+        }
+    },
+    {
+        "time": "2025-11-28 20:32:16",
+        "training": "Speed",
+        "intensity": 12,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 11,
+            "hp": 64
+        }
+    },
+    {
+        "time": "2025-11-28 20:32:29",
+        "training": "Attack",
+        "intensity": 9,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 8,
+            "hp": 58
+        }
+    },
+    {
+        "time": "2025-11-28 20:36:31",
+        "training": "Attack",
+        "intensity": 9,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 8,
+            "hp": 58
+        }
+    },
+    {
+        "time": "2025-11-28 21:12:52",
+        "training": "Attack",
+        "intensity": 15,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 10,
+            "hp": 70
+        }
+    },
+    {
+        "time": "2025-11-28 21:13:13",
+        "training": "Defense",
+        "intensity": 9,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 8,
+            "hp": 58
+        }
+    },
+    {
+        "time": "2025-11-28 21:13:28",
+        "training": "Speed",
+        "intensity": 20,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 15,
+            "hp": 80
+        }
+    },
+    {
+        "time": "2025-11-28 21:24:41",
+        "training": "Attack",
+        "intensity": 20,
+        "before": {
+            "level": 5,
+            "hp": 40
+        },
+        "after": {
+            "level": 11,
+            "hp": 80
+        }
+    }
+]
